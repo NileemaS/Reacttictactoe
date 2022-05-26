@@ -4,7 +4,9 @@
 
  ## React TicTacToe App 
  
-This app is built with React
+Tic-Tac-Toe is played on a square grid of 3×3 squares. Two players, compete against each other. They must each in turn fill in a square on the grid with the symbol assigned to them: O or X.
+
+The winner is the one who manages to align three identical symbols, horizontally, vertically or diagonally.
 
 <p>
 Added features:
@@ -16,8 +18,6 @@ Added features:
 
 Other Stack features Used to build this app: CSS, HTML, JavaScripts, React hooks
 </p>
-
-</em></p> </pre> 
 
 Simple React Tictactoe Game
 <img src="./ScreenshotGame2.png" />
