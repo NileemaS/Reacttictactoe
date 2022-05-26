@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&height=150&section=header&text=Hello%20World!&fontSize=30&desc=Welcome%20To%20My%20Future%0ABouce&animation=scaleIn&fontAlign=20&rotate=-30)
 
- ## ATM App
- 
+ ## React TicTacToe App 
 <pre><img align="center" src="./img/bb.gif.gif" alt="Bouncing Balls GIF" >   
 
 This app is built with React.
