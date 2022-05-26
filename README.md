@@ -19,7 +19,7 @@ Other Stack features Used to build this app: CSS, HTML, JavaScripts, React hooks
 
 </em></p> </pre> 
 
-Simple React ATM
+Simple React Tictactoe Game
 <img src="./ScreenshotGame2.png" />
 
 ## Table of Contents 
